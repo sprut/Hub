@@ -2,15 +2,25 @@
 ---
 ![Hub](https://github.com/sprut/Hub/blob/master/Hub.jpg)
 
-![Image of paircode](https://github.com/sprut/Hub/blob/master/code.png)
+
 
 
 ---
 
 ### Поддерживаемые голосовые ассистенты
-- [Apple HomeKit](https://sprut.ai/client/article/1039)
-- [Google Home](https://sprut.ai/client/article/1287)
+
+#### Apple HomeKit
+- [HomeKit - что это такое? Умный дом от Apple](https://sprut.ai/client/article/1039)
+- Для спаривания с HomeKit используйте код:
+![Image of paircode](https://github.com/sprut/Hub/blob/master/code.png)
+
+#### Google Home
+- [Google Умный дом](https://sprut.ai/client/article/1287)
+- Навык в процессе модерации
+
+#### Yandex Home
 - [Яндекс Умный дом](https://sprut.ai/client/article/1459)
+- Для использования воспользуйтесь навыком [Sprut.Hub](https://dialogs.yandex.ru/store/skills/7a384ba0-sprut-hub-test)
 
 ---
 
