@@ -1,7 +1,8 @@
 # Sprut.Hub
 ---
+![Hub](https://github.com/sprut/Hub/blob/master/Hub.jpg)
 
-
+![Image of paircode](https://github.com/sprut/Hub/blob/master/code.png)
 
 
 ---
