@@ -1,10 +1,6 @@
 # Sprut.Hub
----
+
 ![Hub](https://github.com/sprut/Hub/blob/master/Hub.jpg)
-
-
-
-
 ---
 
 ### Поддерживаемые голосовые ассистенты
@@ -12,6 +8,7 @@
 #### Apple HomeKit
 - [HomeKit - что это такое? Умный дом от Apple](https://sprut.ai/client/article/1039)
 - Для спаривания с HomeKit используйте код:
+
 ![Image of paircode](https://github.com/sprut/Hub/blob/master/code.png)
 
 #### Google Home
