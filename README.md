@@ -24,14 +24,14 @@
 ### Приоритет разработки
 
 #### WirenBoard
-- [Все модули компании](https://wirenboard.com/ru/catalog/)
+- [Все модули компании](https://wirenboard.com/ru/catalog/) (Промокод на скидку: SprutHub)
 
 #### ZigBee
-- [WBE2R-R-ZIGBEE](https://wirenboard.com/ru/product/WBE2R-R-ZIGBEE/)
+- [WBE2R-R-ZIGBEE](https://wirenboard.com/ru/product/WBE2R-R-ZIGBEE/) (Промокод на скидку: SprutHub)
 - [CC2531](https://sprut.ai/client/projects/105)
 
 #### Z-wave
-- [DEFARO UZB7](https://z-wave.ru/shop/category/kontrollery/defaro-uzb7.html)
+- [DEFARO UZB7](https://z-wave.ru/shop/category/kontrollery/defaro-uzb7.html) (Промокод на скидку: SprutHub)
 
 ---
 
