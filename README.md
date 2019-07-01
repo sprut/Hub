@@ -3,7 +3,13 @@
 
 
 
-And I [Sprut](https://github.com/sprut666666) - engaged in ongoing app development =)
+
+---
+
+### Поддерживаемые голосовые ассистенты
+- [Apple HomeKit](https://sprut.ai/client/article/1039)
+- [Google Home](https://sprut.ai/client/article/1287)
+- [Яндекс Умный дом](https://sprut.ai/client/article/1459)
 
 ---
 
@@ -18,3 +24,22 @@ And I [Sprut](https://github.com/sprut666666) - engaged in ongoing app developme
 
 #### Z-wave
 - [DEFARO UZB7](https://z-wave.ru/shop/category/kontrollery/defaro-uzb7.html)
+
+---
+
+### Так же в работе
+
+#### Интеграция хабов сторонних производителей
+- Fibaro HC2
+- Vera
+- Homey 1.5
+- Xiaomi Hub
+
+#### ZigBee
+- [Deconz](https://sprut.ai/client/article/338)
+
+#### Z-wave
+- Все стики на стандартном SDK
+
+#### Delumo
+- [Устройства на новом протоколе, 868](https://sprut.ai/client/news/245)
