@@ -76,3 +76,13 @@
 #### Delumo
 - [Устройства на новом протоколе на 868](https://sprut.ai/client/news/245)
 - [Пример работы](https://www.instagram.com/p/Bsy-HCWnPf2/)
+
+---
+
+### Вводные статьи по настройке Wiren Board
+- [Wiren Board и с чем его едят. Краткий обзор.](https://sprut.ai/client/article/821)
+- [Wiren Board. Настройка сети WiFi.](https://sprut.ai/client/article/875)
+- [Wiren Board. Подключение I2C модулей.](https://sprut.ai/client/article/916)
+- [Wiren Board. Подключение Modbus (RS-485) модулей.](https://sprut.ai/client/article/968)
+
+[Первые эмоции от Wiren Board]https://youtu.be/keUKt7OPDWA
