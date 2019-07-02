@@ -8,7 +8,7 @@
 
 Последние новости о проекте всегда можно узнать в [instagram](https://www.instagram.com/sprut666666/).
 
-Чат для обсуждения продукта в [telegram](tg://resolve?domain=SprutAI_SprutHub).
+Чат для обсуждения продукта в [telegram](https://t.me/SprutAI_SprutHub).
 
 ---
 ### Поддерживаемые голосовые ассистенты
