@@ -1,6 +1,10 @@
 # Sprut.Hub
 
 ![Hub](https://github.com/sprut/Hub/blob/master/Hub.jpg)
+
+
+[![SprutHub](https://img.youtube.com/vi/svo1-UbmbRk/0.jpg)](https://www.youtube.com/watch?v=svo1-UbmbRk)
+
 ---
 
 ### Поддерживаемые голосовые ассистенты
