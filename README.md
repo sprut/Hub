@@ -5,6 +5,12 @@
 
 [![SprutHub](https://img.youtube.com/vi/svo1-UbmbRk/0.jpg)](https://www.youtube.com/watch?v=svo1-UbmbRk)
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 ---
 
 ### Поддерживаемые голосовые ассистенты
