@@ -6,6 +6,7 @@
 С первоначальной концепцией хаба можно ознакомиться в ролике 2017 года [SprutHub](https://www.youtube.com/watch?v=svo1-UbmbRk).
 Скоро будет полное и подроное описание, сейчас проходит второй этап тестирования.
 Последние новости о проекте всегда можно узнать в [instagram](https://www.instagram.com/sprut666666/).
+Чат для обсуждения продукта в [telegram](https://t.me/SprutAI_SprutHub).
 
 ---
 ### Поддерживаемые голосовые ассистенты
@@ -55,11 +56,14 @@
 
 ### Так же в работе
 
+#### Запуск на специфичном железе
+- [Пример работы на роутере Asus](https://www.instagram.com/p/BuUCltfABWl/) 
+
 #### Интеграция хабов сторонних производителей
 - Fibaro HC2
 - Vera
 - Homey 1.5
-- Xiaomi Hub
+- [Xiaomi Hub](https://www.instagram.com/p/BrxrKb5j5zA/)
 
 #### ZigBee
 - [Deconz](https://sprut.ai/client/article/338)
