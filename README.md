@@ -85,4 +85,4 @@
 - [Wiren Board. Подключение I2C модулей.](https://sprut.ai/client/article/916)
 - [Wiren Board. Подключение Modbus (RS-485) модулей.](https://sprut.ai/client/article/968)
 
-[Первые эмоции от Wiren Board]https://youtu.be/keUKt7OPDWA
+[Первые эмоции от Wiren Board](https://youtu.be/keUKt7OPDWA)
