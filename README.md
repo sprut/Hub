@@ -37,22 +37,22 @@
 ### Приоритет разработки
 
 #### WirenBoard
-- [Все модули компании](https://wirenboard.com/ru/catalog/) (Промокод на скидку: SprutHub)
+- [Все модули компании](https://wirenboard.com/ru/catalog/) (Промокод на скидку: "SprutHub" -10%)
 - [В 2-х словах о продукте](https://www.instagram.com/p/But_GCjADzl/)
 
 #### RazumDom
-- [DDM845R v3](https://razumdom.ru/catalog/modbus_rtu/dimmery_rtu_rs485/507/)
+- [DDM845R v3](https://razumdom.ru/catalog/modbus_rtu/dimmery_rtu_rs485/507/) (Промокод на скидку: "71" -20%)
 - [Пример работы](https://www.instagram.com/p/BvU9JogASqU/)
 - При необходимости будет реализовано всё остальное оборудование
 
 #### ZigBee
-- [WBE2R-R-ZIGBEE](https://wirenboard.com/ru/product/WBE2R-R-ZIGBEE/) (Промокод на скидку: SprutHub)
+- [WBE2R-R-ZIGBEE](https://wirenboard.com/ru/product/WBE2R-R-ZIGBEE/) (Промокод на скидку: "SprutHub" -10%)
 - [CC2531](https://sprut.ai/client/projects/105)
 - [Deconz](https://sprut.ai/client/article/338)
 - [Пример работы](https://www.instagram.com/p/BvwBU62hB80/)
 
 #### Z-wave
-- [DEFARO UZB7](https://z-wave.ru/shop/category/kontrollery/defaro-uzb7.html) (Промокод на скидку: SprutHub)
+- [DEFARO UZB7](https://z-wave.ru/shop/category/kontrollery/defaro-uzb7.html) (Промокод на скидку: "SprutHub" -15%)
 
 ---
 
