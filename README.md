@@ -40,9 +40,15 @@
 - [Все модули компании](https://wirenboard.com/ru/catalog/) (Промокод на скидку: SprutHub)
 - [В 2-х словах о продукте](https://www.instagram.com/p/But_GCjADzl/)
 
+#### RazumDom
+- [DDM845R v3](https://razumdom.ru/catalog/modbus_rtu/dimmery_rtu_rs485/507/)
+- [Пример работы](https://www.instagram.com/p/BvU9JogASqU/)
+- При необходимости будет реализовано всё остальное оборудование
+
 #### ZigBee
 - [WBE2R-R-ZIGBEE](https://wirenboard.com/ru/product/WBE2R-R-ZIGBEE/) (Промокод на скидку: SprutHub)
 - [CC2531](https://sprut.ai/client/projects/105)
+- [Deconz](https://sprut.ai/client/article/338)
 - [Пример работы](https://www.instagram.com/p/BvwBU62hB80/)
 
 #### Z-wave
@@ -66,9 +72,6 @@
 - Vera
 - Homey 1.5
 - [Xiaomi Hub](https://www.instagram.com/p/BrxrKb5j5zA/)
-
-#### ZigBee
-- [Deconz](https://sprut.ai/client/article/338)
 
 #### Z-wave
 - Все стики на стандартном SDK
