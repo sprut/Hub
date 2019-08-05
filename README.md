@@ -12,7 +12,7 @@
 
 Последние новости о проекте [telegram](https://t.me/SprutHub).
 
-Пример работы от наших партнёров: [Умный дом под ключ с поддержкой Apple HomeKit, Google Home, Яндекс Алиса на SprutHub](https://www.instagram.com/p/ByKxr7aDJfK/)
+Пример работы от наших партнёров: [Умный дом под ключ с поддержкой Apple HomeKit, Google Home, Яндекс Алиса на SprutHub](https://sprut.ai/client/companies/portfolio/3/1523)
 
 ---
 ### Поддерживаемые голосовые ассистенты
