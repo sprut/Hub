@@ -9,6 +9,9 @@
 Последние новости о проекте всегда можно узнать в [instagram](https://www.instagram.com/sprut666666/).
 
 Чат для обсуждения продукта в [telegram](https://t.me/SprutAI_SprutHub).
+Последние новости о проекте [telegram](https://t.me/SprutHub).
+
+Пример работы от наших партнёров: [Умный дом под ключ с поддержкой Apple HomeKit, Google Home, Яндекс Алиса на SprutHub](https://www.instagram.com/p/ByKxr7aDJfK/)
 
 ---
 ### Поддерживаемые голосовые ассистенты
