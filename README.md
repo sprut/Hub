@@ -41,7 +41,7 @@
 ### Приоритет разработки
 
 #### WirenBoard
-- [Все модули компании](https://wirenboard.com/ru/catalog/) (Промокод на скидку: "SprutHub" -10%)
+- [Все модули компании](https://wirenboard.com/ru/catalog/) (Промокод на скидку: "SprutHub")
 - [В 2-х словах о продукте](https://www.instagram.com/p/But_GCjADzl/)
 
 #### RazumDom
