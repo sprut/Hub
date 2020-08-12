@@ -2,7 +2,7 @@
 name: Добавление устройства ZigBee
 about: Запрос на добавление ZigBee устройства.
 title: ''
-labels: ZigBee, New device
+labels: New device, ZigBee
 assignees: sprut666666
 
 ---
