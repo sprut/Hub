@@ -3,7 +3,7 @@ name: Добавление устройства Z-Wave
 about: Запрос на добавление Z-Wave устройства
 title: ''
 labels: New device, Z-Wave
-assignees: MakeSimpleOrg
+assignees: Batyushin, MakeSimpleOrg
 
 ---
 
