@@ -7,4 +7,4 @@ assignees: Batyushin, sprut666666
 
 ---
 
-Ознакомиться с инструкцией: https://wiki.sprut.ai/ru/spruthub/setup-sprutstick-sniffer-to-add-new-device
+Ознакомиться с инструкцией: https://wiki.sprut.ai/ru/spruthub/materials/setup-sprutstick-sniffer-to-add-new-device
