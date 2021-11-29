@@ -1,0 +1,151 @@
+{
+  "manufacturer": "Lonsonho",
+  "model": "TS0121",
+  "manufacturerId": "_TZ3000_8nkb7mof",
+  "modelId": "TS0121",
+  "catalogId": 3285,
+  "status": "Done",
+  "services": [
+    {
+      "type": "Outlet",
+      "characteristics": [
+        {
+          "type": "On",
+          "link": {
+            "endpoint": 1,
+            "cluster": "0006_OnOff",
+            "attribute": "0000_OnOff"
+          }
+        },
+        {
+          "type": "OutletInUse",
+          "link": {
+            "endpoint": 1,
+            "cluster": "0B04_ElectricalMeasurement",
+            "attribute": "050B_ActivePower",
+            "source": true,
+            "pollingTime": 5000
+          }
+        }
+      ]
+    },
+    {
+      "type": "C_WattMeter",
+      "characteristics": [
+        {
+          "type": "C_Watt",
+          "link": {
+            "endpoint": 1,
+            "cluster": "0B04_ElectricalMeasurement",
+            "attribute": "050B_ActivePower",
+            "source": true,
+            "pollingTime": 5000
+          }
+        }
+      ]
+    },
+    {
+      "type": "C_VoltMeter",
+      "characteristics": [
+        {
+          "type": "C_Volt",
+          "link": {
+            "endpoint": 1,
+            "cluster": "0B04_ElectricalMeasurement",
+            "attribute": "0505_RMSVoltage",
+            "source": true,
+            "pollingTime": 5000
+          }
+        }
+      ]
+    },
+    {
+      "type": "C_AmpereMeter",
+      "characteristics": [
+        {
+          "type": "C_Ampere",
+          "link": {
+            "endpoint": 1,
+            "cluster": "0B04_ElectricalMeasurement",
+            "attribute": "0508_RMSCurrent",
+            "source": true,
+            "scale": 0.001,
+            "pollingTime": 5000
+          }
+        }
+      ]
+    },
+    {
+      "type": "C_KiloWattHourMeter",
+      "characteristics": [
+        {
+          "type": "C_KiloWattHour",
+          "link": {
+            "endpoint": 1,
+            "cluster": "0702_Metering",
+            "attribute": "0000_CurrentSummationDelivered",
+            "source": true,
+            "scale": 0.01,
+            "pollingTime": 360000
+          }
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "link": {
+        "endpoint": 1,
+        "cluster": "0006_OnOff",
+        "attribute": "8001_IndicatorMode"
+      },
+      "name": "Индикация",
+      "type": "Integer",
+      "init": true,
+      "value": 1,
+      "values": [
+        {
+          "value": 0,
+          "name": "Выключено"
+        },
+        {
+          "value": 1,
+          "name": "Индикация при включении"
+        },
+        {
+          "value": 2,
+          "name": "Индикация при выключении"
+        },
+        {
+          "value": 3,
+          "name": "Включено"
+        }
+      ]
+    },
+    {
+      "link": {
+        "endpoint": 1,
+        "cluster": "0006_OnOff",
+        "attribute": "8002_RestartStatus"
+      },
+      "name": "После восстановления питания",
+      "type": "Integer",
+      "init": true,
+      "value": 2,
+      "values": [
+        {
+          "value": 0,
+          "name": "Всегда выключено"
+        },
+        {
+          "value": 1,
+          "name": "Всегда включено"
+        },
+        {
+          "value": 2,
+          "name": "Последнее состояние"
+        }
+      ]
+    }
+  ]
+}
