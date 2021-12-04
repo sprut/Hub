@@ -1,6 +1,6 @@
 ---
-name: '[Beta] Отчета об ошибке'
-about: Отчет об ошибке для тестирования beta версий прошивок
+name: '[Beta] Отчёт об ошибке'
+about: Отчёт об ошибке для тестирования beta версий прошивок
 title: '[Beta] Укажите название ошибки'
 labels: beta, report
 assignees: itsmepetrov, sprut666666
